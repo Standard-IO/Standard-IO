@@ -37,17 +37,12 @@ Mainly I've focused to learn python and many tool that work really well under th
 - 🌱 I’m currently learning web devopment and API creation to manage and provide services through these.
 - 👯 I’m looking to collaborate on machine learning proyects and web devepment. The web devepments that I'm working on is react with DJango
 - 📫 How to reach me: You can send a email to IsraelRescalvo@outlook.com
+  
+<br />
 
-
-<p align="middle">
-    <a href="https://www.credly.com/badges/403202c1-ae40-4bec-bfea-006f4dc413a3/public_url">
-    <img src=".images/../images/aws-practitioner.png">
-    </a>
-    <a href="https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url">
-    <img src=".images/../images/google-data-analisys.png">
-    </a>
-    
-</p>
+AWS Cloud Practioner        |  Google  Data Analyst
+:-------------------------:|:-------------------------:
+<a href="https://www.credly.com/badges/403202c1-ae40-4bec-bfea-006f4dc413a3/public_url"><img src=".images/../images/aws-practitioner.png"></a>  | <a href="https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url"><img src=".images/../images/google-data-analisys.png"></a> 
 
 
 
@@ -87,7 +82,6 @@ I've been working recently with Javascript mainly learning how to develop full s
 ### 2.3.2. Backend
 * `Express`
   
-
 ## 2.4. Databases
 I started manage databases to comprehend how this work with applications.
 
