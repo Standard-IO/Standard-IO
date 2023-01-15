@@ -40,11 +40,9 @@ Mainly I've focused to learn python and many tool that work really well under th
   
 <br />
 
-AWS Cloud Practioner        |  Google  Data Analyst
-:-------------------------:|:-------------------------:
-![aws cloud practitioner](images/aws-practitioner.png)|![Google data analyst](images/google-data-analisys.png)
 
-
+![aws cloud practitioner](images/aws-practitioner.png)
+![Google data analyst](images/google-data-analisys.png)
 
 # 2. What I've learned
 
