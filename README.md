@@ -42,7 +42,7 @@ Mainly I've focused to learn python and many tool that work really well under th
 
 
 ![aws cloud practitioner](images/aws-practitioner.png)
-![Google data analyst](images/google-data-analisys.png)
+![Google data analyst](images/data_analysis.png)
 
 # 2. What I've learned
 
