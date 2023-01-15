@@ -39,7 +39,7 @@ Mainly I've focused to learn python and many tool that work really well under th
 - 📫 How to reach me: You can send a email to IsraelRescalvo@outlook.com
 
 
-<div style="display:flex; justify-content: start;">
+<p align="middle">
     <a href="https://www.credly.com/badges/403202c1-ae40-4bec-bfea-006f4dc413a3/public_url">
     <img src=".images/../images/aws-practitioner.png">
     </a>
@@ -47,7 +47,7 @@ Mainly I've focused to learn python and many tool that work really well under th
     <img src=".images/../images/google-data-analisys.png">
     </a>
     
-</div>
+</p>
 
 
 
@@ -56,8 +56,7 @@ Mainly I've focused to learn python and many tool that work really well under th
 ##  2.1. Version control
 I think this tool is magnificent and mandatorial to this activity. It let you control and debug new features in your code and compare different commits to rapidly see differences between changes.
 
-  * git
-  * git-hub
+  * `git`, `git-hub`
 ## 2.2. Python3
 I've been working since version 3.6 onwards. Mainly focused with data and its manipulation. Also I've learning how to implement APIs with DJango.
 
@@ -66,20 +65,14 @@ I like to work with `pyenv` to manage my python version and dev enviroments for 
 For formatting I found very useful to use `black` integrated with `vscode`. 
 
 ### 2.2.1. Tools
-* `black`: For formatting the code and manage it more easily.
-* `pyenv`: To manage all the python version and dev enviroments.
-* `poetry`: To administrate all the dependencies of one proyect by production dependencies and dev dependencies.
+* `black`, `pyenv`, `poetry`.
 
 ### 2.2.2. Data
-* `pandas`: To manipulate data in table form.
-* `numpy`: To manage data in array way in apply math operation to it.
+* `pandas`, `numpy`, `matplotlib`, `seaborn`.
 
 ### 2.2.3. Machine learning 
 I've working with some model developed under these modules:
-* `PyTorch`: To develop neuranal networks in easily way.
-* `Skearn`: A library with many tools and machine model easily to to work with. And compatible to `pandas`.
-* `Keras`
-* `NLTK`: This modules to extract data from text.
+* `PyTorch`, `Skearn`, `NLTK`, `Keras`.
 * `Jupyterlab`: I think this is ok to show a model but not to develop. I've been facing that debug in this is very hard and variables are stick around until the kernel is restarted.
 
 ### 2.2.4. Web
@@ -101,8 +94,7 @@ I started manage databases to comprehend how this work with applications.
 ### 2.4.1. SQL
 I took courses to be data analist in this tool. I've been working with MySQL and PostgreSQL directly and through ORM tools like the `DJango` provided or  `SQLAlquemy`.
 
-* `PostgreSQL`
-* `MySQL`
+* `PostgreSQL`, `MySQL`.
 
 ### 2.4.2. No SQL
 With this tool I think is very easy to work and let you to do many things.
