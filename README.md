@@ -42,7 +42,7 @@ Mainly I've focused to learn python and many tool that work really well under th
 
 AWS Cloud Practioner        |  Google  Data Analyst
 :-------------------------:|:-------------------------:
-<a href="https://www.credly.com/badges/403202c1-ae40-4bec-bfea-006f4dc413a3/public_url"><img src="./images/aws-practitioner.png"></a>  | <a href="https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url"><img src="./images/google-data-analisys.png"></a> 
+![aws cloud practitioner](images/aws-practitioner.png)|![Google data analyst](images/google-data-analisys.png)
 
 
 
