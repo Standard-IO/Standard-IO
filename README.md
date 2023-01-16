@@ -48,6 +48,8 @@ Mainly I've focused to learn python and many tool that work really well under th
     </a>
 </div>
 
+<img style="display: flex; justify-content: center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Standard-IO"
+/>
 
 
 # 2. What I've learned
