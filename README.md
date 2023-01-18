@@ -20,9 +20,9 @@
     - [2.6.1. AWS](#261-aws)
     - [2.6.2. Azure](#262-azure)
   - [2.7. BI Tools](#27-bi-tools)
-  - [Dev tools](#dev-tools)
-    - [Docker](#docker)
-    - [IDE](#ide)
+  - [2.8. Dev tools](#28-dev-tools)
+    - [2.8.1. Docker](#281-docker)
+    - [2.8.2. IDE](#282-ide)
 
 
 
@@ -131,12 +131,12 @@ As I was working in manufacturing companies I found to  use this kind of tools a
 * PowerBI
 * Tableu
 
-## Dev tools
+## 2.8. Dev tools
 
-### Docker
+### 2.8.1. Docker
 I like to use docker to have all the enviroments replicable between projects.
 
-### IDE
+### 2.8.2. IDE
 * vscode
 * vim
 
