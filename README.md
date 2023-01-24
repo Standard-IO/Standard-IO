@@ -154,7 +154,8 @@ I've participating in some certification processes and courses. These were taked
 
 ### 3.9.1. courses
 * Data analyst with power BI (Statement of accomplishment)[https://www.datacamp.com/statement-of-accomplishment/track/62ed873e86b73327bfb20204c596cf9459c5b488]
-* Security technologies in Azure (statement of accomplishment)[https://1drv.ms/b/s!AnYFWF-bFMPJjuVfFFHKOwhb8Gk1Pw?e=dt4M1b]
+* Security technologies in Azure by Microsoft (statement of accomplishment)[https://1drv.ms/b/s!AnYFWF-bFMPJjuVfFFHKOwhb8Gk1Pw?e=dt4M1b]
+* Launch X LATAM full stack web devepment by microsoft (pending to give the statement of accomplishment)
 * Data analyst with SQL
 
 ### 3.9.2. Certifications
