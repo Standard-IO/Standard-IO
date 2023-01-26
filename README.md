@@ -30,21 +30,21 @@
 
 
 # 1. Repositoiries info
-I'm  tryin to use my github account and repositories within it more frecuently. I have to upload and refactor code so maybe its under construction. 
+I'm trying to use my github account more frecuently this year. But I have the repositories under construction and I have to refactor others to be uploaded. I think to upload more data and repositories through this year. 
 
 
 # 2. About me
 
 Hi, I'm from México. I studied a electroninc engineering and after go for a M.S. in  computer science.
 
-I was working for manufacturing companies about 2 years in areas like quality. In this areas I did many things some related to technology like manage data, make reports and visualizations; and other no related like manage 8 people team to supervise production processes and training. After, applied to study a M.s in C.S. and was admitted, previously I've talked with my boss and trained 2 people to take my place. I really like the tech area so I still think was the best desition.
+I was working for manufacturing companies about 2 years in areas like quality. In this areas I did many things some related to technology like manage data, make reports and visualizations; and other no related like manage 8 people team to supervise production processes and training. After, applied to study a M.s in C.S. and was admitted, previously I've talked with my boss and trained 2 people to take my place. I really like the tech area and data so I still think it was the best desition.
 
 I've learning many things related with data and its manipulation.
-Mainly I've focused to learn python and many tool that work really well under this language. But I've find this is not enough and started to learn many thing realated with web development and cloud becuase these abilities are almost mandatory to work in any field in these days. 
+Mainly I've focused to learn python and many tool that work really well under this language and SQL. Furtherthemore, I've find this is not enough and started to learn another languages like JavaScript to learn web development and cloud technologies and plotforms because these abilities are almost mandatory to work in any field in these days. 
 
 - 🔭 I’m currently working in data manage and how to connect this services together.
-- 🌱 I’m currently learning web devopment and API creation to manage and provide services through these.
-- 👯 I’m looking to collaborate on machine learning proyects and web devepment. The web devepments that I'm working on is react with DJango
+- 🌱 I’m currently learning web development and API creation to manage and provide services through these.
+- 👯 I’m looking to work with data and field related. Maybe web development.
 - 📫 How to reach me: You can send a email to IsraelRescalvo@outlook.com
 
 
@@ -132,7 +132,7 @@ In this cloud I'v been inrolled in two courses that manages this cloud platform.
 * Launch X (full stack course to develop in the cloud) - October to December 2022 (given by the Microsoft team.)
 
 ## 3.7. BI Tools
-As I was working in manufacturing companies I found to  use this kind of tools are suited in somepoint to my perfil because let you manipulate data to make analysis and are very well adopted by the entreprises.
+I've been using some of this tools for reporting in some companies. 
 
 * PowerBI
 * Tableu
