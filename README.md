@@ -37,8 +37,7 @@ I'm  tryin to use my github account and repositories within it more frecuently. 
 
 Hi, I'm from México. I studied a electroninc engineering and after go for a M.S. in  computer science.
 
-I was working for manufacturing companies about 2 years in areas like quality. In this areas I did many things some related to technology like manage data and make reports no further than that and other no related like manage 8 people team to supervise production processes and training. After, applied to study a M.s in C.S. and was admitted, previously I've talked with my boss and trained 2 people to take my place. They offered to me stay raising my salary and giving me a better position, but I really like the tech area so I still think was the best desition.
-
+I was working for manufacturing companies about 2 years in areas like quality. In this areas I did many things some related to technology like manage data, make reports and visualizations; and other no related like manage 8 people team to supervise production processes and training. After, applied to study a M.s in C.S. and was admitted, previously I've talked with my boss and trained 2 people to take my place. I really like the tech area so I still think was the best desition.
 
 I've learning many things related with data and its manipulation.
 Mainly I've focused to learn python and many tool that work really well under this language. But I've find this is not enough and started to learn many thing realated with web development and cloud becuase these abilities are almost mandatory to work in any field in these days. 
@@ -141,11 +140,12 @@ As I was working in manufacturing companies I found to  use this kind of tools a
 ## 3.8. Dev tools
 
 ### 3.8.1. Docker
-I like to use docker to have all the enviroments replicable between projects.
+* docker
+* docker compose
 
 ### 3.8.2. IDE
 * vscode
-  * with .devcontiners ( I think this a exelent tool)
+  * with .devcontiners ( An excellent tool to maintain a cosistent dev tools among a team)
 * vim
 
 
