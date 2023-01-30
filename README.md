@@ -17,6 +17,7 @@
     - [3.4.1. SQL](#341-sql)
     - [3.4.2. No SQL](#342-no-sql)
   - [3.5. Java](#35-java)
+  - [Bash Script](#bash-script)
   - [3.6. Cloud](#36-cloud)
     - [3.6.1. AWS](#361-aws)
     - [3.6.2. Azure](#362-azure)
@@ -25,7 +26,7 @@
     - [3.8.1. Docker](#381-docker)
     - [3.8.2. IDE](#382-ide)
   - [3.9. Some courses and certifications](#39-some-courses-and-certifications)
-    - [3.9.1. courses](#391-courses)
+    - [3.9.1. Courses](#391-courses)
     - [3.9.2. Certifications](#392-certifications)
 
 
@@ -118,6 +119,9 @@ With this tool I think is very easy to work and let you to do many things.
 
 With this language I have foundational knowledge mainly focused in understand and read code maybe do sutils changes to it. I'm very fresh on it and learn throug read the marvellous book **Core Java**.
 
+## Bash Script
+I like to use scrips in bash to automatize installation of packages and environments. This is very useful in deployments too when is used with docker to replicate full environments.
+
 ## 3.6. Cloud
 
 I been in touch with cloud taking courses and trying to develop appliations on it. I've worked with AWS and Azure.
@@ -150,17 +154,17 @@ I've been using some of this tools for reporting in some companies.
 
 
 ## 3.9. Some courses and certifications
-I've participating in some certification processes and courses. These were taked mainly in 2022 late
+I've participating in some certification processes and courses. These were taked mainly in 2022 late.
 
-### 3.9.1. courses
-* Data analyst with power BI (Statement of accomplishment)[https://www.datacamp.com/statement-of-accomplishment/track/62ed873e86b73327bfb20204c596cf9459c5b488]
-* Security technologies in Azure by Microsoft (statement of accomplishment)[https://1drv.ms/b/s!AnYFWF-bFMPJjuVfFFHKOwhb8Gk1Pw?e=dt4M1b]
+### 3.9.1. Courses
+* Data analyst with power BI [Statement of accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/62ed873e86b73327bfb20204c596cf9459c5b488)
+* Security technologies in Azure by Microsoft [statement of accomplishment](https://1drv.ms/b/s!AnYFWF-bFMPJjuVfFFHKOwhb8Gk1Pw?e=dt4M1b)
 * Launch X LATAM full stack web devepment by microsoft (pending to give the statement of accomplishment)
-* Data analyst with SQL
+* Data analyst with SQL.
 
 ### 3.9.2. Certifications
-* Google data analyst (certification badge)[https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url]
-* AWS Cloud Practitioner Essentials (certification badge)[https://1drv.ms/b/s!AnYFWF-bFMPJjuVdmp_M_5T2YHRKjQ?e=Ta6WzM]
+* Google data analyst [certification badge](https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url)
+* AWS Cloud Practitioner Essentials [certification badge](https://1drv.ms/b/s!AnYFWF-bFMPJjuVdmp_M_5T2YHRKjQ?e=Ta6WzM)
 
 
 
