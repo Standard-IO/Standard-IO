@@ -1,171 +1,76 @@
- Hi there 👋
+# Hi there 👋 I'm Israel Rescalvo
+
+**Senior AI & Data Platform Engineer**
+
+I design and build production-grade AI solutions that combine Large Language Models, data engineering, cloud infrastructure, and modern software development. My experience spans the complete lifecycle of AI applications, from data ingestion and model integration to deployment and scalable cloud architectures.
+
+---
+
+## 🚀 About Me
+
+- 🤖 Building enterprise AI applications powered by LLMs
+- 🧠 Designing Retrieval-Augmented Generation (RAG) and semantic search solutions
+- 📊 Developing data platforms and analytics solutions for business intelligence
+- ☁️ Architecting cloud-native applications on Azure and AWS
+- 🐳 Deploying scalable services with Docker and Kubernetes
+- 💻 Building modern backend and full-stack applications with Python, FastAPI, and Next.js
+
+---
+
+## 🛠 Tech Stack
+
+### AI & Machine Learning
+- OpenAI API
+- Azure OpenAI
+- Amazon Bedrock
+- LangChain
+- Hugging Face
+- Transformers
+- PyTorch
+- Ollama
+- RAG
+- Prompt Engineering
+- Embeddings
+
+### Data Engineering
+- SQL Server
+- PostgreSQL
+- OpenSearch / Elasticsearch
+- Apache Airflow
+- Power BI
+- ETL Pipelines
+- Data Warehousing
+
+### Backend & Frontend
+- Python
+- FastAPI
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- REST APIs
+
+### Cloud & Infrastructure
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Docker
+- Kubernetes
+- Linux
+- GitHub Actions
+
+---
+
+## 🔬 Areas of Interest
+
+- Generative AI
+- AI Platforms
+- Agentic AI
+- Cloud Architecture
+- Data Platforms
+- MLOps
+- Enterprise Search
 
 
-- [1. Repositoiries info](#1-repositoiries-info)
-- [2. About me](#2-about-me)
-- [3. What I've learned](#3-what-ive-learned)
-  - [3.1. Version control](#31-version-control)
-  - [3.2. Python3](#32-python3)
-    - [3.2.1. Tools](#321-tools)
-    - [3.2.2. Data](#322-data)
-    - [3.2.3. Machine learning](#323-machine-learning)
-    - [3.2.4. Web](#324-web)
-  - [3.3. Javascript](#33-javascript)
-    - [3.3.1. Front end](#331-front-end)
-    - [3.3.2. Backend](#332-backend)
-  - [3.4. Databases](#34-databases)
-    - [3.4.1. SQL](#341-sql)
-    - [3.4.2. No SQL](#342-no-sql)
-  - [3.5. Java](#35-java)
-  - [Bash Script](#bash-script)
-  - [3.6. Cloud](#36-cloud)
-    - [3.6.1. AWS](#361-aws)
-    - [3.6.2. Azure](#362-azure)
-  - [3.7. BI Tools](#37-bi-tools)
-  - [3.8. Dev tools](#38-dev-tools)
-    - [3.8.1. Docker](#381-docker)
-    - [3.8.2. IDE](#382-ide)
-  - [3.9. Some courses and certifications](#39-some-courses-and-certifications)
-    - [3.9.1. Courses](#391-courses)
-    - [3.9.2. Certifications](#392-certifications)
+---
 
-
-# 1. Repositoiries info
-I'm trying to use my github account more frecuently this year. But I have the repositories under construction and I have to refactor others to be uploaded. I think to upload more data and repositories through this year. 
-
-
-# 2. About me
-
-Hi, I'm from México. I studied a electroninc engineering and after go for a M.S. in  computer science.
-
-I was working for manufacturing companies about 2 years in areas like quality. In this areas I did many things some related to technology like manage data, make reports and visualizations; and other no related like manage 8 people team to supervise production processes and training. After, applied to study a M.s in C.S. and was admitted, previously I've talked with my boss and trained 2 people to take my place. I really like the tech area and data so I still think it was the best desition.
-
-I've learning many things related with data and its manipulation.
-Mainly I've focused to learn python and many tool that work really well under this language and SQL. Furtherthemore, I've find this is not enough and started to learn another languages like JavaScript to learn web development and cloud technologies and plotforms because these abilities are almost mandatory to work in any field in these days. 
-
-- 🔭 I’m currently working in data manage and how to connect this services together.
-- 🌱 I’m currently learning web development and API creation to manage and provide services through these.
-- 👯 I’m looking to work with data and field related. Maybe web development.
-- 📫 How to reach me: You can send a email to IsraelRescalvo@outlook.com
-
-
-<div style="display: flex; align-items: center; justify-content: center">
-    <a href="https://www.credly.com/badges/403202c1-ae40-4bec-bfea-006f4dc413a3/public_url">
-    <img src="./images/aws-practitioner.png">
-    </a>
-    <a href="https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url">
-    <img src="./images/data_analysis.png">
-    </a>
-</div>
-
-
-<div style="display: flex">
-<img  src="https://github-readme-stats-qk4fsd7tf-standard-io.vercel.app/api/top-langs/?username=Standard-IO&layout=compact&theme=dracula"/>
-<img  src="https://github-readme-stats-qk4fsd7tf-standard-io.vercel.app/api?username=Standard-IO&layout=compact&theme=dracula&show_icons=true"/>
-</div>
-
-
-# 3. What I've learned
-
-##  3.1. Version control
-I think this tool is magnificent and mandatorial to this activity. It let you control and debug new features in your code and compare different commits to rapidly see differences between changes.
-
-  * `git`, `git-hub`
-## 3.2. Python3
-I've been working since version 3.6 onwards. Mainly focused with data and its manipulation. Also I've learning how to implement APIs with DJango.
-
-I like to work with `pyenv` to manage my python version and dev enviroments for every project. And recently I found `poetry` a tool that let you manage your project in `npm` way with a `.toml` file to configurate all your project dependencies.
-
-For formatting I found very useful to use `black` integrated with `vscode`. 
-
-### 3.2.1. Tools
-* `black`, `pyenv`, `poetry`.
-
-### 3.2.2. Data
-* `pandas`, `numpy`, `matplotlib`, `seaborn`.
-
-### 3.2.3. Machine learning 
-I've working with some model developed under these modules:
-* `PyTorch`, `Skearn`, `NLTK`, `Keras`.
-* `Jupyterlab`: I think this is ok to show a model but not to develop. I've been facing that debug in this is very hard and variables are stick around until the kernel is restarted.
-
-### 3.2.4. Web
-My incoursion to web related things it's relative new but I'm focus on `DJango`.
-* `DJango`
-
-## 3.3. Javascript
-I've been working recently with Javascript mainly learning how to develop full stack abilities. I learned to use `npm` for manage the project and install the required modules.
-
-### 3.3.1. Front end
-* `React`
-### 3.3.2. Backend
-* `Express`
-  
-
-## 3.4. Databases
-I started manage databases to comprehend how this work with applications.
-
-### 3.4.1. SQL
-I took courses to be data analist in this tool. I've been working with MySQL and PostgreSQL directly and through ORM tools like the `DJango` provided or  `SQLAlquemy`.
-
-* `PostgreSQL`, `MySQL`.
-
-### 3.4.2. No SQL
-With this tool I think is very easy to work and let you to do many things.
-
-* `MongoDB`
-
-## 3.5. Java
-
-With this language I have foundational knowledge mainly focused in understand and read code maybe do sutils changes to it. I'm very fresh on it and learn throug read the marvellous book **Core Java**.
-
-## Bash Script
-I like to use scrips in bash to automatize installation of packages and environments. This is very useful in deployments too when is used with docker to replicate full environments.
-
-## 3.6. Cloud
-
-I been in touch with cloud taking courses and trying to develop appliations on it. I've worked with AWS and Azure.
-
-### 3.6.1. AWS
-In AWS I have the **AWS Cloud Practitioner certification** taken in December 2022 valid to december 2025.
-
-### 3.6.2. Azure
-In this cloud I'v been inrolled in two courses that manages this cloud platform.
-
-* Azure security technologies - August 2022 (given by Microsoft Team)
-* Launch X (full stack course to develop in the cloud) - October to December 2022 (given by the Microsoft team.)
-
-## 3.7. BI Tools
-I've been using some of this tools for reporting in some companies. 
-
-* PowerBI
-* Tableu
-
-## 3.8. Dev tools
-
-### 3.8.1. Docker
-* docker
-* docker compose
-
-### 3.8.2. IDE
-* vscode
-  * with .devcontiners ( An excellent tool to maintain a cosistent dev tools among a team)
-* vim
-
-
-## 3.9. Some courses and certifications
-I've participating in some certification processes and courses. These were taked mainly in 2022 late.
-
-### 3.9.1. Courses
-* Data analyst with power BI [Statement of accomplishment](https://www.datacamp.com/statement-of-accomplishment/track/62ed873e86b73327bfb20204c596cf9459c5b488)
-* Security technologies in Azure by Microsoft [statement of accomplishment](https://1drv.ms/b/s!AnYFWF-bFMPJjuVfFFHKOwhb8Gk1Pw?e=dt4M1b)
-* Launch X LATAM full stack web devepment by microsoft (pending to give the statement of accomplishment)
-* Data analyst with SQL.
-
-### 3.9.2. Certifications
-* Google data analyst [certification badge](https://www.credly.com/badges/62112e4f-0f91-406d-96b4-5ba9f6e2a34c/public_url)
-* AWS Cloud Practitioner Essentials [certification badge](https://1drv.ms/b/s!AnYFWF-bFMPJjuVdmp_M_5T2YHRKjQ?e=Ta6WzM)
-
-
-
-
+> *Passionate about building intelligent, scalable, and production-ready AI systems that bridge data, cloud infrastructure, and modern software engineering.*
