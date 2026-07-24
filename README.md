@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Israel Rescalvo
+# Hi there
 
 **Senior AI & Data Platform Engineer**
 
